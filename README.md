@@ -9,7 +9,8 @@ This project demonstrates the application of generative AI, computer vision, and
 ---
 	
 ## 📊 Dataset
-* **Source* ** https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset
+ **Source**
+ *         https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset
 	       author = {Prasoon Kottarathil},
 	       title = {Face Mask Lite Dataset},
 	       year = {2020},
