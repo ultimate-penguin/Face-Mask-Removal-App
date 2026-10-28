@@ -108,11 +108,8 @@ The adversarial training process improves image quality over time, enabling the 
 
 This project tried 2 generator's architectures: the encoder-decoder model and the 3-level U-NET model
 
-<img width="227" height="370" alt="image" src="https://github.com/user-attachments/assets/3b455c4f-98f2-454e-94e9-beb7c642e1ce" />
-
-
-
-<img width="357" height="367" alt="image" src="https://github.com/user-attachments/assets/e294cfec-3b56-4af8-a748-4ed33ee1fbda" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3b455c4f-98f2-454e-94e9-beb7c642e1ce" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e294cfec-3b56-4af8-a748-4ed33ee1fbda" />
 
 
 ---
@@ -129,7 +126,6 @@ The models are capable of reconstructing skin color and texture but cannot gener
 Example:
 
 ![alt text](https://github.com/ultimate-penguin/Face-Mask-Removal-App/blob/main/result/maskimg.JPG)
-
 ![alt text](https://github.com/ultimate-penguin/Face-Mask-Removal-App/blob/main/result/nomask.JPG)
 
 ---
@@ -178,5 +174,4 @@ The underlying dataset and processed data are derived from [ https://www.kaggle.
 
 GitHub: https://github.com/ultimate-penguin
 
-LinkedIn: https://linkedin.com/in/your-profile
 
